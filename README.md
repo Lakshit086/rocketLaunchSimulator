@@ -9,6 +9,6 @@ Try this input :
   1st: startChecks
   2nd: launch
   3rd: fastForward 
-  4th: quit
+  4th: quit.
 
 Hope I make fulfill your needs...
